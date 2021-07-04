@@ -1,5 +1,6 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 ### Hi there 👋
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <!--
 **sidchai/sidchai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
